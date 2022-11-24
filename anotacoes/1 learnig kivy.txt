@@ -1,0 +1,5 @@
+Projetos com Kivy:
+
+- For any project you'll name your main file as main.py
+
+- For any application with kivy you need to add "App" to the name of the class (in the main.py file) which inherits from the App class defined in kivy.

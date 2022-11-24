@@ -1,0 +1,2 @@
+O próprio site oficial do Kivy fornecia as informações necessárias. O que me deixava confuso era ter que instalar pacotes no sistema (global) se minha intenção era utilizar o Kivy em um ambiente virtual com virtualenv. Quando aprendi que era necessário instalar pacotes globalmente para que o Kivy pudesse funcionar (mesmo que no ambiente virtual)
+https://pt.stackoverflow.com/questions/151031/virtualenv-com-kivy

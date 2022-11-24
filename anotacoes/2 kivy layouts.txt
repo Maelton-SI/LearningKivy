@@ -1,0 +1,15 @@
+Layouts:
+
+- BoxLayout: Makes it possible to stack elements vertically or horizontally.
+
+- AnchorLayout: Allows you to place any content in the corner of the screen or in the center.
+
+- GridLayout: Organizes the content with a number of columns or a number of rows.
+
+- StackLayout: Organizes elements in lines ? And is able to organize elements of different sizes.
+
+- ScrowView: Allows to use the scrow when the content is bigger than the window size.
+
+- PageLayout: Allows to switch layouts as if they were book pages.
+
+- Other layouts: FloatLayout, RelativeLayout, ScatterLayout.
